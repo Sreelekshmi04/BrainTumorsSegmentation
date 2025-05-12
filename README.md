@@ -1,1 +1,1 @@
-# BrainTumorsSegmentation
+# BrainTumorSegmentation
